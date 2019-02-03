@@ -100,6 +100,7 @@ namespace Test
                     Console.Write(i + ", ");
                 }
             }
+
             Console.WriteLine();
             ClassA classA = new ClassA();
             ClassA classB = new ClassB();

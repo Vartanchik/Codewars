@@ -38,7 +38,6 @@ namespace Anagrams
 
         static void Main(string[] args)
         {
-            Console.WriteLine(GetReadableTime(60));
         }
     }
 }
