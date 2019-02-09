@@ -38,6 +38,9 @@ namespace Anagrams
 
         static void Main(string[] args)
         {
+            string s = "Yello";
+            char c = 'R';
+            Console.WriteLine(s + "\n" + c);
         }
     }
 }
